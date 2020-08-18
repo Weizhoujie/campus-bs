@@ -10,7 +10,7 @@
 	<script>  
         var ctx = "${ctx}";  
     </script>
-	<title>登录</title>
+	<title>登录测试</title>
 </head>
 <body background="./image/back_03.jpg">
 	<div class="login-main">
